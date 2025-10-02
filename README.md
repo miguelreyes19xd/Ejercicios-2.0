@@ -1,17 +1,9 @@
 # Ejercicios 2.0
 
-Este es un repositorio para ejercicios y proyectos de práctica.
+Ejercicios de taller de herramientas computacionales
 
 ## Contenido
 
-- Ejercicio 1
-- Ejercicio 2
-- Ejercicio 3
+- Ejercicios
+  
 
-## Instalación
-
-Instrucciones para instalar y ejecutar los ejercicios.
-
-## Contribuciones
-
-Si deseas contribuir, por favor abre un Pull Request.
